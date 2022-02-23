@@ -1,4 +1,4 @@
-# pytorch: we suggest installing separately using the instructions at https://pytorch.org/
+pytorch==1.8.0  #we suggest installing separately using the instructions at https://pytorch.org/
 mlflow
 pandas
 numpy
